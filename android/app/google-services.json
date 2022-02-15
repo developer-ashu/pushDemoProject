@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943706885067",
+    "project_id": "pushdemo-8abad",
+    "storage_bucket": "pushdemo-8abad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943706885067:android:66b5672d7f53285380c44e",
+        "android_client_info": {
+          "package_name": "com.pushdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943706885067-39h9hi7g7ke00l0dsu62u48ak2039glv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3iyrGqbdx2yZrLOgTo53swCb52K_Gkdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943706885067-39h9hi7g7ke00l0dsu62u48ak2039glv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
